@@ -1,0 +1,56 @@
+.twikoo {
+  padding-bottom: 1em !important;
+}
+.tk-submit {
+  margin-top: 1em !important;
+}
+.tk-main {
+  font-size: medium !important;
+  word-break: break-word !important;
+}
+.tk-avatar {
+  height: 4.5rem !important;
+  width: 4.5rem !important;
+}
+.tk-avatar .tk-avatar-img {
+  height: 4.5rem !important;
+}
+strong {
+  font-weight: 900 !important;
+}
+.tk-comment:hover .tk-actions {
+  display: contents !important;
+}
+@media screen and (max-width: 520px) {
+  .tk-time time {
+    display: block !important;
+    margin-top: 0.3em !important;
+  }
+}
+.tk-row {
+  font-size: 0.95em !important;
+}
+.tk-content p {
+  margin: 0.5em 0 !important;
+}
+.tk-replies {
+  max-height: 500px !important;
+}
+.tk-replies-expand {
+  overflow: auto !important;
+}
+.tk-replies .tk-content {
+  font-size: 0.95em !important;
+}
+.tk-owo-emotion {
+  max-width: 32px !important;
+}
+.tk-extras {
+  font-size: 0.6em !important;
+  margin-top: -0.5em !important;
+  margin-bottom: 2em !important;
+}
+.tk-footer {
+  font-size: 0.5em !important;
+  margin-top: 7em !important;
+}
