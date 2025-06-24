@@ -1,286 +1,286 @@
 {
-  "<img src=\"https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatheart.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"blobcat\">": {
+  "<img src=\"https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatheart.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"blobcat\">": {
     "type": "image",
     "container": [
       {
         "text": "aheart",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatheart.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatheart.png'>"
       },
       {
         "text": "heartbroken",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatheartbroken.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatheartbroken.png'>"
       },
       {
         "text": "heart",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatheart.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatheart.png'>"
       },
       {
         "text ": "pat",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/meow_headache.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/meow_headache.png'>"
       },
       {
         "text": "heartpride",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatheartpride.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatheartpride.png'>"
       },
       {
         "text": "love",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatlove.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatlove.png'>"
       },
       {
         "text": "kissheart",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatkissheart.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatkissheart.png'>"
       },
       {
         "text": "acry",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatcry.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatcry.png'>"
       },
       {
         "text": "adead",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatdead.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatdead.png'>"
       },
       {
         "text": "snuggle",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsnuggle.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsnuggle.png'>"
       },
       {
         "text": "comfyuee",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/comfyuee.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/comfyuee.png'>"
       },
       {
         "text": "comfyslep",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/comfyslep.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/comfyslep.png'>"
       },
       {
         "text": "comfynight",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/comfynight.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/comfynight.png'>"
       },
       {
         "text": "comfysweat",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcomfysweat.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcomfysweat.png'>"
       },
       {
         "text": "comfy",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcomfy.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcomfy.png'>"
       },
       {
         "text": "comftears",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcomftears.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcomftears.png'>"
       },
       {
         "text": "facepalm",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatfacepalm.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatfacepalm.png'>"
       },
       {
         "text": "dizzy",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatdizzy.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatdizzy.png'>"
       },
       {
         "text": "angry",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatangry.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatangry.png'>"
       },
       {
         "text": "blush",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatblush.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatblush.png'>"
       },
       {
         "text": "coffee",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcoffee.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcoffee.png'>"
       },
       {
         "text": "cry",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcry.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcry.png'>"
       },
       {
         "text": "dead",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatdead.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatdead.png'>"
       },
       {
         "text": "died",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatdied.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatdied.png'>"
       },
       {
         "text": "disturbed",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatdisturbed.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatdisturbed.png'>"
       },
       {
         "text": "fearful",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatfearful.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatfearful.png'>"
       },
       {
         "text": "fingerguns",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatfingerguns.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatfingerguns.png'>"
       },
       {
         "text": "flip",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatflip.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatflip.png'>"
       },
       {
         "text": "flower",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatflower.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatflower.png'>"
       },
       {
         "text": "gay",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatgay.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatgay.png'>"
       },
       {
         "text": "googlycry",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatgooglycry.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatgooglycry.png'>"
       },
       {
         "text": "neutral",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatneutral.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatneutral.png'>"
       },
       {
         "text": "openmouth",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatopenmouth.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatopenmouth.png'>"
       },
       {
         "text": "sadreach",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsadreach.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsadreach.png'>"
       },
       {
         "text": "scared",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatscared.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatscared.png'>"
       },
       {
         "text": "nomblobcat",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatnomblobcat.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatnomblobcat.png'>"
       },
       {
         "text": "presentred",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatpresentred.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatpresentred.png'>"
       },
       {
         "text": "read",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatread.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatread.png'>"
       },
       {
         "text": "sipsweat",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsipsweat.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsipsweat.png'>"
       },
       {
         "text": "snapped",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsnapped.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsnapped.png'>"
       },
       {
         "text": "think",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatthink.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatthink.png'>"
       },
       {
         "text": "triumph",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcattriumph.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcattriumph.png'>"
       },
       {
         "text": "umm",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatumm.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatumm.png'>"
       },
       {
         "text": "verified",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatverified.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatverified.png'>"
       },
       {
         "text": "box",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatbox.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatbox.png'>"
       },
       {
         "text": "caged",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcaged.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatcaged.png'>"
       },
       {
         "text": "googlytrash",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatgooglytrash.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatgooglytrash.png'>"
       },
       {
         "text": "headphones",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatheadphones.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatheadphones.png'>"
       },
       {
         "text": "highfive",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcathighfive.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcathighfive.png'>"
       },
       {
         "text": "melt",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatmelt.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatmelt.png'>"
       },
       {
         "text": "meltthumb",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatmeltthumb.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatmeltthumb.png'>"
       },
       {
         "text": "notlikethis",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatnotlikethis.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatnotlikethis.png'>"
       },
       {
         "text": "saitama",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsaitama.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatsaitama.png'>"
       },
       {
         "text": "yandere",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatyandere.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatyandere.png'>"
       },
       {
         "text": "peek2",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatpeek2.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatpeek2.png'>"
       },
       {
         "text": "peekaboo",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatpeekaboo.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatpeekaboo.png'>"
       },
       {
         "text": "photo",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatphoto.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatphoto.png'>"
       },
       {
         "text": "attentionreverse",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatattentionreverse.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatattentionreverse.png'>"
       },
       {
         "text": "reachrev",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatreachrev.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatreachrev.png'>"
       },
       {
         "text": "wave",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatwave.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatwave.png'>"
       },
       {
         "text": "alt",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatalt.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatalt.png'>"
       },
       {
         "text": "police",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatpolice.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatpolice.png'>"
       },
       {
         "text": "shocked",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatshocked.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcatshocked.png'>"
       },
       {
         "text": "rainbow",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatrainbow.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatrainbow.png'>"
       },
       {
         "text": "reeee",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/A_BlobCat_REEEE.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/A_BlobCat_REEEE.png'>"
       },
       {
         "text": "code",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/A_BlobCat_Code.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/A_BlobCat_Code.png'>"
       },
       {
         "text": "sweat",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatknitsweats.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/ablobcatknitsweats.png'>"
       },
       {
         "text": "nervous",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/A_BlobCat_Nervous.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/A_BlobCat_Nervous.png'>"
       },
       {
         "text": "aww",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcat-aww.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/blobcat-aww.png'>"
       },
       {
         "text": "bounce",
-        "icon": "<img src='https://cdn.jsdmirror.com/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/bouncefast.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/xsnaruto/twikoo-custom@main/emoji/blobcatplus/bouncefast.png'>"
       }
     ]
   }
